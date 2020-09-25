@@ -6,6 +6,7 @@ out/
 paper/
 env/
 .vs/
+.vscode/
 
 *.log
 *.out
