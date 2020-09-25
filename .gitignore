@@ -4,6 +4,8 @@
 data/
 out/
 paper/
+env/
+.vs/
 
 *.log
 *.out
